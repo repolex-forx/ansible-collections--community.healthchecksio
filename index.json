@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.healthchecksio",
+  "versions": [
+    {
+      "commit": "46035ace3efea706d7c9c953227f8bd4b7813385",
+      "tag": "",
+      "parsed_at": "2026-11-07T16:30:43.250886+00:00"
+    }
+  ]
+}
