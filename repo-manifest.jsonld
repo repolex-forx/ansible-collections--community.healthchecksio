@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.healthchecksio/commit/46035ace3efea706d7c9c953227f8bd4b7813385",
       "git:hexsha": "46035ace3efea706d7c9c953227f8bd4b7813385",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T16:30:43.250131+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.healthchecksio/commit/ba06918fb706c160dd33bb4164174da284754031",
